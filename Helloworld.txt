@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Name: Indi from sby
+=======
+Name: Indi Arkandi
+>>>>>>> indi
 Address: Bandung
 HP: 08973975255
